@@ -17,6 +17,7 @@ package packageA;
 		{
 			B obj = new B();
 			obj.displayB(); // Accessed displayB() from another class "B" within the same package.
+			System.out.println("This is a new update to check in git..");
 
 		}
 
